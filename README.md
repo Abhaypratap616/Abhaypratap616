@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning , Android developer**
+- 🌱 I’m currently learning **Machine learning , MERN stack developer**
 
-- 💬 Ask me about **MERN stack, and any framework like bootstrap**
+- 💬 Ask me about **MERN stack, and any framework**
 
 - 📫 How to reach me **sabhaypratapsingh122@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and enjoy from my things**
+- ⚡ Fun fact **I think I am funny and I enjoy from my things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
